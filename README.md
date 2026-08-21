@@ -216,5 +216,5 @@ Recurso não encontrado retorna `404 Not Found`:
 **Gustavo Silveira Soares**
 Desenvolvedor Full Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Silveira-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-black?style=flat-square&logo=github)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Silveira-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gustavo-silveira-soares-626752329/)
+[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-black?style=flat-square&logo=github)](https://github.com/GustavoSilveira1012)
